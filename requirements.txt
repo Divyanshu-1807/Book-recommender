@@ -2,4 +2,4 @@ flask
 pandas
 numpy
 gunicorn
-pickle 4.0
+
